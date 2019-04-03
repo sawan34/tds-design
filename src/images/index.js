@@ -1,0 +1,1 @@
+import boxImage from './TV_Box_GoT.jpg'
