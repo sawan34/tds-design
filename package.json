@@ -2,6 +2,7 @@
   "name": "telus.com",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@tds/core-box": "^1.1.0",
     "@tds/core-button": "^2.0.1",
